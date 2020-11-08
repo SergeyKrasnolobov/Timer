@@ -1,0 +1,56 @@
+{
+    "activities": [
+        {
+            "name": "main.py - timeauto - Visual Studio Code [Administrator]",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end": "2020-11-08 14:58:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start": "2020-11-08 14:57:57"
+                }
+            ]
+        },
+        {
+            "name": "singletonmeta.py - timeauto - Visual Studio Code [Administrator]",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end": "2020-11-08 14:58:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start": "2020-11-08 14:58:05"
+                }
+            ]
+        },
+        {
+            "name": "requirements.txt - timeauto - Visual Studio Code [Administrator]",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end": "2020-11-08 14:58:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start": "2020-11-08 14:58:12"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer/autotimer.py at master \u00b7 KalleHallden/AutoTimer \u2013 Cent Browser",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end": "2020-11-08 14:58:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start": "2020-11-08 14:58:16"
+                }
+            ]
+        }
+    ]
+}
