@@ -1,6 +1,6 @@
 
 def singletonMeta(class_):
-    """Декоратор создает синглтон"""
+    
     _instance = {}
 
     def wrapper(*args, **kwargs):
